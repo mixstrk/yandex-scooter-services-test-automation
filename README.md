@@ -14,7 +14,7 @@
 5) Check errors for all order form fields.
 6) Check if you enter the wrong order number, you will be taken to the order status page. there should be no such order.
 
-### Found the bugs
+### Found bugs
 ![img_7.png](img/img_7.png)
 
 ### Libraries & Tools
