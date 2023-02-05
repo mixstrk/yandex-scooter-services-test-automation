@@ -1,6 +1,6 @@
 ## [QA scooter praktikum services](https://qa-scooter.praktikum-services.ru/) UI testing
 ****
-[QA scooter praktikum services](https://www.griddynamics.com/) is the web-site for training automation testing.
+[QA scooter praktikum services](https://qa-scooter.praktikum-services.ru/) is the web-site for training automation testing.
 
 ### Test script
 1) Test accordion buttons on the homapage on the chapter "questions about important".
