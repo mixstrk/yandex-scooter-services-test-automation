@@ -23,6 +23,7 @@
 > **Selenide**: <em>6.11.2 - WebDriver</em><br/>
 > **JUnit5 - Jupiter**: <em>5.9.1 - Testing Framework</em><br/>
 > **Allure**: <em>2.20.1 - Test Report</em><br/>
+> **Google chrome**: <em>109.0.5414.120 - Web browser</em><br/>
 
 ### Run Tests and Allure report
 On the "Gradle" tab click "test". Then click "allureReport".
