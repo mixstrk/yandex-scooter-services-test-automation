@@ -2,7 +2,7 @@
 ****
 [QA scooter praktikum services](https://qa-scooter.praktikum-services.ru/) is the web-site for training automation testing.
 
-### Test script
+### Test scenario
 1) Test accordion buttons on the homapage on the chapter "questions about important".
    You need to check: when you click the button on the accordion, the corresponding text opens. Write a separate test for each question.
 2) Scooter order. The whole flow of the positive script:
