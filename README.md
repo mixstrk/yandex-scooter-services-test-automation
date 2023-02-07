@@ -18,7 +18,7 @@
 ![img_7.png](img/img_7.png)
 
 ### Libraries & Tools
-> **IntelliJ IDEA**: <em>2022.3.1 - Integrated Development Environment</em><br/>
+> **IntelliJ IDEA**: <em>17.0.5 - Integrated Development Environment</em><br/>
 > **Gradle**: <em>7.5.1 - Build Tool</em><br/>
 > **Selenide**: <em>6.11.2 - WebDriver</em><br/>
 > **JUnit5 - Jupiter**: <em>5.9.1 - Testing Framework</em><br/>
